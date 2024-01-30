@@ -2,9 +2,9 @@ module.exports = {
   apps: [
     {
       name: "react-gold", // ubah sesuai nama aplikasi yang dibuat
-      script: "npx",
+      script: "serve",
       // sesuaikan port yang telah diubah
-      args: "serve -s -l 3000 build",
+      args: "serve -s build -p 3001 build",
       interpreter: "none",
       watch: true,
       merge_logs: true,
