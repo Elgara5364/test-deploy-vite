@@ -1,4 +1,4 @@
-module.exports = {
+ {
   apps : [
         {
                 name   : "binar_car_rental",
