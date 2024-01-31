@@ -6,7 +6,7 @@ import { routes as LandingRoutes } from "@/modules/Landing/routes";
 import { useRoutes } from "react-router-dom";
 
 function App() {
-  let route = useRoutes([...LandingRoutes]);
+  let route = useRoutes(LandingRoutes);
   return route;
 }
 
