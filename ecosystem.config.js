@@ -6,11 +6,6 @@ module.exports = {
       // sesuaikan port yang telah diubah
       args: "serve -s build ",
       interpreter: "none",
-      watch: true,
-      merge_logs: true,
-      env: {
-        NODE_ENV: "production",
-      },
     },
   ],
 };
