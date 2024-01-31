@@ -2,7 +2,6 @@
   "name": "react-gold",
   "private": true,
   "version": "0.0.0",
-  "type": "commonjs",
   "scripts": {
     "dev": "vite",
     "start": "vite start",

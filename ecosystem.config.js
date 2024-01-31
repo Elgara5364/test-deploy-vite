@@ -1,8 +1,6 @@
-module.exports = {
-  apps: [
-    {
-      name: "react-gold",
-      script: "start",
-    },
-  ],
-};
+apps: [
+  {
+    name: "react-gold",
+    script: "start",
+  },
+];
