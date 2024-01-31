@@ -4,7 +4,7 @@ module.exports = {
       name: "react-gold", // ubah sesuai nama aplikasi yang dibuat
       script: { start: "vite start" },
       // sesuaikan port yang telah diubah
-      args: "start -s build ",
+      args: "serve -s build ",
       interpreter: "none",
       watch: true,
       merge_logs: true,
