@@ -2,7 +2,7 @@
 // import "jquery";
 // import "popper.js";
 // import "bootstrap/dist/js/bootstrap";
-import { routes as LandingRoutes } from "@/modules/Landing/routes";
+import { routes as LandingRoutes } from "../src/modules/Landing/routes";
 import { useRoutes } from "react-router-dom";
 
 function App() {
