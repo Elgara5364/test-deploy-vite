@@ -3,7 +3,7 @@ module.exports = {
     {
       name: "react-gold",
       script: "npm start",
-      args: " serve -s build",
+      args: " npm start",
       error_file: "./pm2-error.log",
       out_file: "./pm2-out.log",
     },
